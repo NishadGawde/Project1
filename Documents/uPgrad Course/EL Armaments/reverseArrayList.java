@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 public class reverseArrayList {
@@ -17,7 +16,6 @@ public class reverseArrayList {
     static void reverseArrayList(ArrayList<Integer> list) {
          Collections.reverse(list);
         
-
+//Adding Comments for Githug modification
         // Write your code here
-    }
-}
+ }
